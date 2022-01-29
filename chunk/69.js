@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[69],{"241":function(e,n,u){"use strict";u.r(n);var t=u(167),c=u(14),i=u(21),s=u(169),f=u(29);n.default=function Ju(){return Object(c.useEffect)((function(){})),i.default.useDidShow((function(){})),i.default.useDidHide((function(){})),Object(f.jsxs)(t.View,{"children":["攒局",Object(f.jsx)(s.e,{"current":"ju"})]})}}}]);
